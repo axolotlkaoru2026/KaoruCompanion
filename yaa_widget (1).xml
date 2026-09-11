@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:id="@+id/widget_root" android:layout_width="match_parent" android:layout_height="match_parent" android:gravity="center" android:background="#AAFFFFFF" android:padding="8dp">
-    <TextView android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="やぁに触れる" android:textColor="#222222" android:textStyle="bold" android:textSize="14sp" />
-</LinearLayout>
